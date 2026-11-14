@@ -138,17 +138,6 @@ Continuously experimenting with new ideas, technologies and practical applicatio
 
 ---
 
-## 🌌 Contribution Graph
-<h2 align="center">🌊 My GitHub Contributions</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwani7002&bg_color=07172E&color=C4B5FD&line=38BDF8&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</div>
-
 ### 🌊 Explore. Experiment. Evolve.
 
 *"Great things are built one line of code at a time."*
