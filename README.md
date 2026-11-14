@@ -2,7 +2,7 @@
 
 <!-- STATIC NAME: DISPLAYED ONLY ONCE -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=115&text=Vishwani%20Venishetty&fontSize=48&fontColor=C084FC&font=Pacifico&animation=fadeIn&fontAlignY=55" width="100%" alt="Vishwani Venishetty"/>
+<img src="https://readme-typing-svg.demolab.com?font=Allura&size=65&duration=1&pause=999999&color=C8A2F5&center=true&vCenter=true&repeat=false&width=900&height=85&lines=Vishwani+Venishetty" alt="Vishwani Venishetty"/>
 
 <!-- PERSONAL ANIMATED INTRODUCTION -->
 
