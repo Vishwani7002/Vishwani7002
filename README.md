@@ -10,15 +10,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vishwani+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Exploring+RAG%2C+LLMs+%26+NLP;Building+Ideas+Into+Reality" alt="Typing SVG"/>
 
+<div align="center">
+
+<h2>AI & ML Enthusiast</h2>
+
 <p>
-  <b>Artificial Intelligence</b> &nbsp;•&nbsp;
-  <b>Machine Learning</b> &nbsp;•&nbsp;
-  <b>Full Stack Development</b>
+  Artificial Intelligence &nbsp; • &nbsp;
+  Machine Learning &nbsp; • &nbsp;
+  Full Stack Development
 </p>
 
-<a href="https://github.com/Vishwani7002">
-  <img src="https://img.shields.io/badge/GitHub-Vishwani7002-0A192F?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
+<p>
+  <a href="https://github.com/Vishwani7002">
+    <img src="https://img.shields.io/badge/GitHub-Vishwani7002-171A2B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
