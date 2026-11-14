@@ -3,7 +3,7 @@
 <!-- STATIC NAME: DISPLAYED ONLY ONCE -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Allura&size=65&duration=1&pause=999999&color=C8A2F5&center=true&vCenter=true&repeat=false&width=900&height=85&lines=Vishwani+Venishetty" alt="Vishwani Venishetty"/>
-🟪🟪🟪
+       🟪🟪🟪🟪🟪🟪🟪
 
 <!-- PERSONAL ANIMATED INTRODUCTION -->
 
