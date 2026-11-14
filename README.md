@@ -13,6 +13,8 @@
 <p>
 <b>Artificial Intelligence</b> &nbsp; • &nbsp;
 <b>Machine Learning</b> &nbsp; • &nbsp;
+<b>RAG, LLMs</b> &nbsp; • &nbsp;
+<b>NLP</b> &nbsp; • &nbsp;  
 <b>Full Stack Development</b>
 </p>
 
