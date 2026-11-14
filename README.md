@@ -1,46 +1,34 @@
-<!-- OCEAN BLUE GITHUB PROFILE README -->
-
-<div align="center">
-  <img
-    src="./vishwani-ocean-banner.png"
-    width="100%"
-    alt="Vishwani Venishetty Ocean Banner"
-  />
-</div>
-
+<!-- ═══════════════ VISHWANI VENISHETTY | OCEAN THEME ═══════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%E2%9C%A8" alt="Building Ideas Into Reality"/>
+<img src="./my%20banner.png" width="100%" alt="Vishwani Venishetty Ocean Banner"/>
 
-</div>
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&height=180&lines=Building+Ideas+Into+Reality+%E2%9C%A8;AI+%26+ML+Enthusiast+%F0%9F%92%9C;Artificial+Intelligence+%E2%80%A2+Machine+Learning;Full+Stack+Development+%E2%80%A2+RAG;Large+Language+Models+%E2%80%A2+NLP" alt="Animated Introduction"/>
 
-<div align="center">
-
-<h2>AI & ML Enthusiast</h2>
+<br/>
 
 <p>
-  Artificial Intelligence &nbsp; • &nbsp;
-  Machine Learning &nbsp; • &nbsp;
-  Full Stack Development
+  <b>Artificial Intelligence</b> &nbsp; • &nbsp;
+  <b>Machine Learning</b> &nbsp; • &nbsp;
+  <b>Full Stack Development</b>
 </p>
 
-<p>
-  <a href="https://github.com/Vishwani7002">
-    <img src="https://img.shields.io/badge/GitHub-Vishwani7002-171A2B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/Vishwani7002">
+<img src="https://img.shields.io/badge/GitHub-Vishwani7002-30204D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🌊 About Me
+## 💜 About Me
 
 - 🎓 Interested in Artificial Intelligence and Data Science.
 - 🤖 Exploring Machine Learning, Deep Learning, NLP, RAG and LLMs.
@@ -50,7 +38,7 @@
 
 ---
 
-## ⚓ Tech Stack
+## 🪻 Tech Stack
 
 ### Programming Languages
 
@@ -61,12 +49,12 @@
 ### AI / ML / Development
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-0B3D91?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-123B70?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-075985?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-164E83?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-483D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7B68AE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8A63B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-9370DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-30204D?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ### Tools
@@ -88,7 +76,7 @@
 Time-series-based demand forecasting using machine learning techniques.
 
 <a href="https://github.com/Vishwani7002/Demand-Forecasting-with-Time-Series">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -99,11 +87,12 @@ Time-series-based demand forecasting using machine learning techniques.
 An NLP and machine learning project for analyzing sentiment in text.
 
 <a href="https://github.com/Vishwani7002/Sentiment-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -112,13 +101,14 @@ An NLP and machine learning project for analyzing sentiment in text.
 A DBMS-based resource management system featuring bookings and conflict detection.
 
 <a href="https://github.com/Vishwani7002/smart-campus-resource-management">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 <td width="50%">
 
-### 🧪 More Projects Coming Soon
+### ✨ More Projects Coming Soon
 
 Continuously experimenting with new ideas, technologies and practical applications.
 
@@ -128,7 +118,7 @@ Continuously experimenting with new ideas, technologies and practical applicatio
 
 ---
 
-## 🐬 Currently Exploring
+## 🌷 Currently Exploring
 
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
@@ -142,20 +132,22 @@ Continuously experimenting with new ideas, technologies and practical applicatio
 
 <div align="center">
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Vishwani7002&theme=tokyonight&background=07172E&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vishwani7002&theme=tokyonight&background=17132B&ring=C084FC&fire=E879F9&currStreakLabel=C084FC&sideLabels=D8B4FE&dates=BBA8D9&hide_border=true" width="85%" alt="GitHub Streak Statistics"/>
 
 </div>
 
 ---
 
-### 🌊 Explore. Experiment. Evolve.
+<div align="center">
 
-*"Great things are built one line of code at a time."*
+### 🌙 Explore. Experiment. Evolve.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07172E,50:075985,100:0EA5E9&height=120&section=footer"/>
+*Building my own path, one line of code at a time.* 💜
 
-**Thanks for visiting my little corner of GitHub! 💙**
+<br/>
+
+**Thank you for visiting my little corner of GitHub!**
+
+💜 🌊 🪻
 
 </div>
