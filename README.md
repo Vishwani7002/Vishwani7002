@@ -1,10 +1,12 @@
 <!-- OCEAN BLUE GITHUB PROFILE README -->
 
 <div align="center">
-
-<img src="./vishwani-ocean-banner.png" width="100%" alt="Vishwani Ocean Banner"/>
-
-<br/>
+  <img
+    src="./vishwani-ocean-banner.png"
+    width="100%"
+    alt="Vishwani Venishetty Ocean Banner"
+  />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vishwani+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Exploring+RAG%2C+LLMs+%26+NLP;Building+Ideas+Into+Reality" alt="Typing SVG"/>
 
@@ -137,16 +139,15 @@ Continuously experimenting with new ideas, technologies and practical applicatio
 ---
 
 ## 🌌 Contribution Graph
+<h2 align="center">🌊 My GitHub Contributions</h2>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwani7002&bg_color=07172E&color=7DD3FC&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwani7002&bg_color=07172E&color=C4B5FD&line=38BDF8&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
 </div>
-
----
-
-<div align="center">
 
 ### 🌊 Explore. Experiment. Evolve.
 
