@@ -1,14 +1,14 @@
-<!-- VISHWANI VENISHETTY | PURPLE AESTHETIC GITHUB PROFILE -->
-
 <div align="center">
 
-<!-- NAME -->
+<!-- STATIC NAME: DISPLAYED ONLY ONCE -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&height=100&lines=Vishwani+Venishetty" alt="Vishwani Venishetty"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=115&text=Vishwani%20Venishetty&fontSize=48&fontColor=C084FC&font=Pacifico&animation=fadeIn&fontAlignY=55" width="100%" alt="Vishwani Venishetty"/>
 
-<!-- ANIMATED INTRODUCTION -->
+<!-- PERSONAL ANIMATED INTRODUCTION -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2500&pause=1000&color=D8B4FE&center=true&vCenter=true&width=1000&height=150&lines=Building+Ideas+Into+Reality+%E2%9C%A8;AI+%26+ML+Enthusiast+%F0%9F%92%9C;Artificial+Intelligence+%E2%80%A2+Machine+Learning;Full+Stack+Development+%E2%80%A2+RAG;Large+Language+Models+%E2%80%A2+NLP" alt="Animated Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2800&pause=1100&color=D8B4FE&center=true&vCenter=true&width=1000&height=160&lines=Turning+curiosity+into+things+that+work+%E2%9C%A8;Learning+by+building%2C+testing+and+improving+%F0%9F%92%9C;From+ideas+to+intelligent+applications+%F0%9F%9A%80;Exploring+AI+and+creating+practical+solutions+%F0%9F%8C%B7;Always+curious%2C+always+creating%2C+always+growing+%F0%9F%AA%BB" alt="Personal Animated Introduction"/>
+
+<br/>
 
 <p>
 <b>Artificial Intelligence</b> &nbsp; • &nbsp;
@@ -35,7 +35,8 @@
 - 🎓 Interested in Artificial Intelligence and Data Science.
 - 🤖 Exploring Machine Learning, Deep Learning, NLP, RAG and LLMs.
 - 💻 Building practical AI-powered applications and full-stack projects.
-- 🧠 Interested in learning new technologies and solving real-world problems.
+- 🧠 I enjoy understanding how things work and turning ideas into working solutions.
+- 🎨 Interested in creativity, problem-solving and learning new technologies.
 - 🚀 Always curious, always building, always improving.
 
 ---
