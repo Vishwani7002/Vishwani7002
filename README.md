@@ -1,159 +1,144 @@
-<!-- OCEAN BLUE GITHUB PROFILE README -->
-
 <div align="center">
 
-<img src="./vishwani-ocean-banner.png" width="100%" alt="Vishwani Ocean Banner"/>
+<img src="./banner.svg" alt="Vishwani Venishetty" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vishwani+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Exploring+RAG%2C+LLMs+%26+NLP;Building+Ideas+Into+Reality" alt="Typing SVG"/>
-
-<p>
-  <b>Artificial Intelligence</b> &nbsp;•&nbsp;
-  <b>Machine Learning</b> &nbsp;•&nbsp;
-  <b>Full Stack Development</b>
-</p>
-
-<a href="https://github.com/Vishwani7002">
-  <img src="https://img.shields.io/badge/GitHub-Vishwani7002-0A192F?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
+![AI & Data Science](https://img.shields.io/badge/AI%20%26%20Data%20Science-0A2A5E?style=for-the-badge)
+![RAG & LLMs](https://img.shields.io/badge/RAG%20%26%20LLMs-1E6FD9?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack-5DB4F2?style=for-the-badge)
 
 </div>
 
----
+<br/>
 
 ## 🌊 About Me
 
-- 🎓 Interested in Artificial Intelligence and Data Science.
-- 🤖 Exploring Machine Learning, Deep Learning, NLP, RAG and LLMs.
-- 💻 Building practical AI-powered applications and full-stack projects.
-- 🧠 Interested in learning new technologies and solving real-world problems.
-- 🚀 Always curious, always building, always improving.
+I'm an **Artificial Intelligence and Data Science** undergraduate at **IIIT Design and Manufacturing, Kurnool** (2024 – 2028). I enjoy building practical AI/ML applications, from fine-tuning language models to shipping clean APIs and web apps around them.
 
----
+- 🔹 Exploring **RAG, LLMs, NLP, Machine Learning and Deep Learning**
+- 🔹 Building with **Python, PyTorch, FastAPI and Flask**
+- 🔹 Always learning new technologies and turning them into useful solutions
 
-## ⚓ Tech Stack
+<br/>
 
-### Programming Languages
+## 🐚 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,js&theme=dark"/>
-</p>
+**Languages**
 
-### AI / ML / Development
+![C](https://img.shields.io/badge/C-0A2A5E?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0A2A5E?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A2A5E?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A2A5E?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0A2A5E?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0A2A5E?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0A2A5E?style=flat-square&logo=sqlite&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-0B3D91?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-123B70?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-075985?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-164E83?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+**AI / ML and Data**
 
-### Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-1E6FD9?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E6FD9?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1E6FD9?style=flat-square&logo=huggingface&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1E6FD9?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1E6FD9?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1E6FD9?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1E6FD9?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E6FD9?style=flat-square)
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux&theme=dark"/>
-</p>
+**Backend and Tools**
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-5DB4F2?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-5DB4F2?style=flat-square&logo=flask&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-5DB4F2?style=flat-square&logo=mlflow&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-5DB4F2?style=flat-square)
+![Git](https://img.shields.io/badge/Git-5DB4F2?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5DB4F2?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-5DB4F2?style=flat-square&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-5DB4F2?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-5DB4F2?style=flat-square&logo=linux&logoColor=white)
 
-## 🚀 Featured Projects
+<br/>
+
+## 🔵 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 ### 📈 Demand Forecasting
+**Time-Series Transformers**
 
-Time-series-based demand forecasting using machine learning techniques.
+Retail sales forecasting platform using **Temporal Fusion Transformers**, tuned with **Optuna** and tracked with **MLflow**. Served through **FastAPI** with interactive visualizations.
 
-<a href="https://github.com/Vishwani7002/Demand-Forecasting-with-Time-Series">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Python` `PyTorch Forecasting` `TFT` `FastAPI` `MLflow`
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
 ### 💬 Sentiment Analysis
+**DistilBERT Pipeline**
 
-An NLP and machine learning project for analyzing sentiment in text.
+Fine-tuned on **50,000+ Amazon reviews** for three-class sentiment, reaching a **93% F1-score**. **INT8 quantization** cut model size by **40%**; batch inference handles **10,000+ reviews in under 2 minutes**.
 
-<a href="https://github.com/Vishwani7002/Sentiment-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏫 Intelligent Resource Allocation
-
-A DBMS-based resource management system featuring bookings and conflict detection.
-
-<a href="https://github.com/Vishwani7002/smart-campus-resource-management">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Python` `PyTorch` `Transformers` `FastAPI`
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🧪 More Projects Coming Soon
+### 🏫 Smart Campus System
+**Resource Allocation and Conflict Management**
 
-Continuously experimenting with new ideas, technologies and practical applications.
+Normalized **3NF database** (8 tables, 11 triggers, 6 indexes, 2 views) with trigger-based booking conflict prevention. In concurrency tests, **1 of 10** simultaneous conflicting bookings succeeded.
+
+`Python` `Flask` `SQLite` `REST APIs` `JavaScript`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🐬 Currently Exploring
+## 🎓 Education
 
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- AI Agents and Generative AI
-- Advanced NLP applications
-- Full Stack Development
+**B.Tech in Artificial Intelligence and Data Science**
+Indian Institute of Information Technology Design and Manufacturing, Kurnool · *2024 – 2028*
 
----
+<sub>Coursework: Data Structures and Algorithms · Operating Systems · Object-Oriented Programming · Database Management Systems · Software Engineering</sub>
 
-## 📊 GitHub Analytics
+<br/>
+
+## ✨ Achievements and Certifications
+
+- 🌟 **Codess.Cafe** · Selected as a mentee in a technical mentorship program
+- 🌟 **Open Source** · Contributor at **GirlScript Summer of Code (GSSoC)** and **Open Source Connect India (OSCI)**
+- 🌟 **Google Prompt to Prototype** · Architected and contributed to a GenAI project
+- 🎖️ Google AI Essentials · Cisco Data Analytics · IBM SkillsBuild Cybersecurity Fundamentals
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwani7002&show_icons=true&theme=tokyonight&bg_color=07172E&title_color=38BDF8&icon_color=38BDF8&text_color=DCEEFF&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&bg_color=0A2A5E&title_color=7CC4F5&text_color=CFE8FF&icon_color=5DB4F2&border_color=1E6FD9&border_radius=12" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0A2A5E&title_color=7CC4F5&text_color=CFE8FF&border_color=1E6FD9&border_radius=12" alt="Top languages"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwani7002&layout=compact&theme=tokyonight&bg_color=07172E&title_color=38BDF8&text_color=DCEEFF&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Vishwani7002&theme=tokyonight&background=07172E&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=0A2A5E&ring=5DB4F2&fire=7CC4F5&currStreakNum=CFE8FF&currStreakLabel=7CC4F5&sideNums=CFE8FF&sideLabels=7CC4F5&dates=9FD8FF&border=1E6FD9&stroke=1E6FD9&border_radius=12" alt="GitHub streak"/>
 
 </div>
 
----
+<br/>
 
-## 🌌 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwani7002&bg_color=07172E&color=7DD3FC&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
+## 🌐 Let's Connect
 
 <div align="center">
 
-### 🌊 Explore. Experiment. Evolve.
+[![Email](https://img.shields.io/badge/Email-0A2A5E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwanivenishetty03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E6FD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-5DB4F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-*"Great things are built one line of code at a time."*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07172E,50:075985,100:0EA5E9&height=120&section=footer"/>
-
-**Thanks for visiting my little corner of GitHub! 💙**
+<img src="./footer.svg" alt="" width="100%"/>
 
 </div>
