@@ -8,7 +8,13 @@
   />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vishwani+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Exploring+RAG%2C+LLMs+%26+NLP;Building+Ideas+Into+Reality" alt="Typing SVG"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%E2%9C%A8" alt="Building Ideas Into Reality"/>
+
+</div>
+
 
 <div align="center">
 
@@ -135,10 +141,6 @@ Continuously experimenting with new ideas, technologies and practical applicatio
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwani7002&show_icons=true&theme=tokyonight&bg_color=07172E&title_color=38BDF8&icon_color=38BDF8&text_color=DCEEFF&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwani7002&layout=compact&theme=tokyonight&bg_color=07172E&title_color=38BDF8&text_color=DCEEFF&hide_border=true" />
 
 <br/><br/>
 
