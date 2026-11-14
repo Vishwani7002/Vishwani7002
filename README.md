@@ -1,20 +1,22 @@
-<!-- ═══════════════ VISHWANI VENISHETTY | OCEAN THEME ═══════════════ -->
+<!-- VISHWANI VENISHETTY | PURPLE AESTHETIC GITHUB PROFILE -->
 
 <div align="center">
 
-<img src="./my%20banner.png" width="100%" alt="Vishwani Venishetty Ocean Banner"/>
+<!-- NAME -->
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=850&height=100&lines=Vishwani+Venishetty" alt="Vishwani Venishetty"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&height=180&lines=Building+Ideas+Into+Reality+%E2%9C%A8;AI+%26+ML+Enthusiast+%F0%9F%92%9C;Artificial+Intelligence+%E2%80%A2+Machine+Learning;Full+Stack+Development+%E2%80%A2+RAG;Large+Language+Models+%E2%80%A2+NLP" alt="Animated Introduction"/>
+<!-- ANIMATED INTRODUCTION -->
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2500&pause=1000&color=D8B4FE&center=true&vCenter=true&width=1000&height=150&lines=Building+Ideas+Into+Reality+%E2%9C%A8;AI+%26+ML+Enthusiast+%F0%9F%92%9C;Artificial+Intelligence+%E2%80%A2+Machine+Learning;Full+Stack+Development+%E2%80%A2+RAG;Large+Language+Models+%E2%80%A2+NLP" alt="Animated Introduction"/>
 
 <p>
-  <b>Artificial Intelligence</b> &nbsp; • &nbsp;
-  <b>Machine Learning</b> &nbsp; • &nbsp;
-  <b>Full Stack Development</b>
+<b>Artificial Intelligence</b> &nbsp; • &nbsp;
+<b>Machine Learning</b> &nbsp; • &nbsp;
+<b>Full Stack Development</b>
 </p>
+
+<!-- SOCIAL LINKS -->
 
 <a href="https://github.com/Vishwani7002">
 <img src="https://img.shields.io/badge/GitHub-Vishwani7002-30204D?style=for-the-badge&logo=github&logoColor=white"/>
@@ -38,13 +40,15 @@
 
 ---
 
-## 🪻 Tech Stack
+## 🪻 Technical Skills
 
 ### Programming Languages
 
-<p>
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,js&theme=dark"/>
-</p>
+
+</div>
 
 ### AI / ML / Development
 
@@ -80,6 +84,7 @@ Time-series-based demand forecasting using machine learning techniques.
 </a>
 
 </td>
+
 <td width="50%">
 
 ### 💬 Sentiment Analysis
@@ -128,7 +133,7 @@ Continuously experimenting with new ideas, technologies and practical applicatio
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Streak Statistics
 
 <div align="center">
 
@@ -148,6 +153,6 @@ Continuously experimenting with new ideas, technologies and practical applicatio
 
 **Thank you for visiting my little corner of GitHub!**
 
-💜 🌊 🪻
+💜 🪻 ✨
 
 </div>
