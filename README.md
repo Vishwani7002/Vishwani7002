@@ -55,7 +55,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux,pycharm,streamlit,&theme=dark"/>
 </p>
 
 ---
